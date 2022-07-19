@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/crossworld/static/css/main.768540f6.css",
+    "main.css": "/crossworld/static/css/main.022db56d.css",
     "main.js": "/crossworld/static/js/main.a7bad776.js",
     "static/media/amrutvel.png": "/crossworld/static/media/amrutvel.fa9c95f20356234c38f0.png",
     "static/media/yugandhar.png": "/crossworld/static/media/yugandhar.45cc19e91adcae50446f.png",
@@ -15,11 +15,11 @@
     "static/media/the_richest_man_in_babylon.jpg": "/crossworld/static/media/the_richest_man_in_babylon.672451c8bfe5d53fafdf.jpg",
     "static/media/and_the_moutain_echoed.jpg": "/crossworld/static/media/and_the_moutain_echoed.566ded7f0b4d487bae28.jpg",
     "index.html": "/crossworld/index.html",
-    "main.768540f6.css.map": "/crossworld/static/css/main.768540f6.css.map",
+    "main.022db56d.css.map": "/crossworld/static/css/main.022db56d.css.map",
     "main.a7bad776.js.map": "/crossworld/static/js/main.a7bad776.js.map"
   },
   "entrypoints": [
-    "static/css/main.768540f6.css",
+    "static/css/main.022db56d.css",
     "static/js/main.a7bad776.js"
   ]
 }
