@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.768540f6.css",
-    "main.js": "/static/js/main.f41d4c97.js",
-    "static/media/amrutvel.png": "/static/media/amrutvel.fa9c95f20356234c38f0.png",
-    "static/media/yugandhar.png": "/static/media/yugandhar.45cc19e91adcae50446f.png",
-    "static/media/ignited_minds.png": "/static/media/ignited_minds.e1c4111149e4008f77df.png",
-    "static/media/chhatrapati_shivaji_maharaj.png": "/static/media/chhatrapati_shivaji_maharaj.b5d36a4880c6237aa7ca.png",
-    "static/media/the_psychology_of_money.png": "/static/media/the_psychology_of_money.1752cfbb47d46471031e.png",
-    "static/media/The_kite_runner.jpg": "/static/media/The_kite_runner.b7cf3abd530c8d9079a7.jpg",
-    "static/media/yayati.jpg": "/static/media/yayati.6a725555f1d7030ec075.jpg",
-    "static/media/The_Alchemist.jpg": "/static/media/The_Alchemist.0186da1671bdb624fe67.jpg",
-    "static/media/teen_hajar_take.jpg": "/static/media/teen_hajar_take.2fd3a43d8e5740b899bb.jpg",
-    "static/media/man_mai_hai_vishwas.jpg": "/static/media/man_mai_hai_vishwas.22e40772010602559b08.jpg",
-    "static/media/the_richest_man_in_babylon.jpg": "/static/media/the_richest_man_in_babylon.672451c8bfe5d53fafdf.jpg",
-    "static/media/and_the_moutain_echoed.jpg": "/static/media/and_the_moutain_echoed.566ded7f0b4d487bae28.jpg",
-    "index.html": "/index.html",
-    "main.768540f6.css.map": "/static/css/main.768540f6.css.map",
-    "main.f41d4c97.js.map": "/static/js/main.f41d4c97.js.map"
+    "main.css": "/crossworld/static/css/main.768540f6.css",
+    "main.js": "/crossworld/static/js/main.0e41c185.js",
+    "static/media/amrutvel.png": "/crossworld/static/media/amrutvel.fa9c95f20356234c38f0.png",
+    "static/media/yugandhar.png": "/crossworld/static/media/yugandhar.45cc19e91adcae50446f.png",
+    "static/media/ignited_minds.png": "/crossworld/static/media/ignited_minds.e1c4111149e4008f77df.png",
+    "static/media/chhatrapati_shivaji_maharaj.png": "/crossworld/static/media/chhatrapati_shivaji_maharaj.b5d36a4880c6237aa7ca.png",
+    "static/media/the_psychology_of_money.png": "/crossworld/static/media/the_psychology_of_money.1752cfbb47d46471031e.png",
+    "static/media/The_kite_runner.jpg": "/crossworld/static/media/The_kite_runner.b7cf3abd530c8d9079a7.jpg",
+    "static/media/yayati.jpg": "/crossworld/static/media/yayati.6a725555f1d7030ec075.jpg",
+    "static/media/The_Alchemist.jpg": "/crossworld/static/media/The_Alchemist.0186da1671bdb624fe67.jpg",
+    "static/media/teen_hajar_take.jpg": "/crossworld/static/media/teen_hajar_take.2fd3a43d8e5740b899bb.jpg",
+    "static/media/man_mai_hai_vishwas.jpg": "/crossworld/static/media/man_mai_hai_vishwas.22e40772010602559b08.jpg",
+    "static/media/the_richest_man_in_babylon.jpg": "/crossworld/static/media/the_richest_man_in_babylon.672451c8bfe5d53fafdf.jpg",
+    "static/media/and_the_moutain_echoed.jpg": "/crossworld/static/media/and_the_moutain_echoed.566ded7f0b4d487bae28.jpg",
+    "index.html": "/crossworld/index.html",
+    "main.768540f6.css.map": "/crossworld/static/css/main.768540f6.css.map",
+    "main.0e41c185.js.map": "/crossworld/static/js/main.0e41c185.js.map"
   },
   "entrypoints": [
     "static/css/main.768540f6.css",
-    "static/js/main.f41d4c97.js"
+    "static/js/main.0e41c185.js"
   ]
 }
