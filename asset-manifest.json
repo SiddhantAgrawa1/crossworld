@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crossworld/static/css/main.625ee7a0.css",
-    "main.js": "/crossworld/static/js/main.538b4a6b.js",
+    "main.css": "/crossworld/static/css/main.b10409fe.css",
+    "main.js": "/crossworld/static/js/main.2f2625f9.js",
     "static/media/amrutvel.png": "/crossworld/static/media/amrutvel.fa9c95f20356234c38f0.png",
     "static/media/yugandhar.png": "/crossworld/static/media/yugandhar.45cc19e91adcae50446f.png",
     "static/media/ignited_minds.png": "/crossworld/static/media/ignited_minds.e1c4111149e4008f77df.png",
@@ -17,11 +17,11 @@
     "static/media/cross.png": "/crossworld/static/media/cross.e4b8e2e19dadfa1f92ff.png",
     "static/media/and_the_moutain_echoed.jpg": "/crossworld/static/media/and_the_moutain_echoed.566ded7f0b4d487bae28.jpg",
     "index.html": "/crossworld/index.html",
-    "main.625ee7a0.css.map": "/crossworld/static/css/main.625ee7a0.css.map",
-    "main.538b4a6b.js.map": "/crossworld/static/js/main.538b4a6b.js.map"
+    "main.b10409fe.css.map": "/crossworld/static/css/main.b10409fe.css.map",
+    "main.2f2625f9.js.map": "/crossworld/static/js/main.2f2625f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.625ee7a0.css",
-    "static/js/main.538b4a6b.js"
+    "static/css/main.b10409fe.css",
+    "static/js/main.2f2625f9.js"
   ]
 }
