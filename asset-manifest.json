@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/crossworld/static/css/main.4dbacf85.css",
-    "main.js": "/crossworld/static/js/main.a7bad776.js",
+    "main.css": "/crossworld/static/css/main.625ee7a0.css",
+    "main.js": "/crossworld/static/js/main.538b4a6b.js",
     "static/media/amrutvel.png": "/crossworld/static/media/amrutvel.fa9c95f20356234c38f0.png",
     "static/media/yugandhar.png": "/crossworld/static/media/yugandhar.45cc19e91adcae50446f.png",
     "static/media/ignited_minds.png": "/crossworld/static/media/ignited_minds.e1c4111149e4008f77df.png",
     "static/media/chhatrapati_shivaji_maharaj.png": "/crossworld/static/media/chhatrapati_shivaji_maharaj.b5d36a4880c6237aa7ca.png",
+    "static/media/cross1.jpg": "/crossworld/static/media/cross1.d1bf24006f94e7374054.jpg",
     "static/media/the_psychology_of_money.png": "/crossworld/static/media/the_psychology_of_money.1752cfbb47d46471031e.png",
     "static/media/The_kite_runner.jpg": "/crossworld/static/media/The_kite_runner.b7cf3abd530c8d9079a7.jpg",
     "static/media/yayati.jpg": "/crossworld/static/media/yayati.6a725555f1d7030ec075.jpg",
@@ -13,13 +14,14 @@
     "static/media/teen_hajar_take.jpg": "/crossworld/static/media/teen_hajar_take.2fd3a43d8e5740b899bb.jpg",
     "static/media/man_mai_hai_vishwas.jpg": "/crossworld/static/media/man_mai_hai_vishwas.22e40772010602559b08.jpg",
     "static/media/the_richest_man_in_babylon.jpg": "/crossworld/static/media/the_richest_man_in_babylon.672451c8bfe5d53fafdf.jpg",
+    "static/media/cross.png": "/crossworld/static/media/cross.e4b8e2e19dadfa1f92ff.png",
     "static/media/and_the_moutain_echoed.jpg": "/crossworld/static/media/and_the_moutain_echoed.566ded7f0b4d487bae28.jpg",
     "index.html": "/crossworld/index.html",
-    "main.4dbacf85.css.map": "/crossworld/static/css/main.4dbacf85.css.map",
-    "main.a7bad776.js.map": "/crossworld/static/js/main.a7bad776.js.map"
+    "main.625ee7a0.css.map": "/crossworld/static/css/main.625ee7a0.css.map",
+    "main.538b4a6b.js.map": "/crossworld/static/js/main.538b4a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dbacf85.css",
-    "static/js/main.a7bad776.js"
+    "static/css/main.625ee7a0.css",
+    "static/js/main.538b4a6b.js"
   ]
 }
